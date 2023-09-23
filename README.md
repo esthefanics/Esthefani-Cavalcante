@@ -3,8 +3,7 @@
 # Ei, tudo beleza? Me chamo Esthefani.
 Seja Bem vindo ao meu perfil do GitHub.
 
- - 🔭 Atualmente estou trabalhando em um projeto pessoal de um site para um Ateliê de costura de vestidos de noivas e um site ligado a tecnologia e podução para microempreendedores que desajam automatizar sua gestão.
- - 🌱 Atualmente estou aprendendo Figma e faço curso de UI/UX na Alura ( e claro, aprendendo a fazer um bom café já que todo bom dev não sobrevive sem um cafézinho).
+ - 🌱 Atualmente estou me aperfeiçoendo em JavaScript, aprendendo Figma e faço curso de UI/UX na Alura ( e claro, aprendendo a fazer um bom café já que todo bom dev não sobrevive sem um cafézinho).
  - ⚡ Curiosidade: Sou professora da educação Infantil e do primeiro seguimento (1° ao 6° ano)
  
   - 📫 Como entrar em contato comigo:
